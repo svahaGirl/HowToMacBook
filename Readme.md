@@ -12,3 +12,8 @@ https://www.youtube.com/watch?v=SELYgZvAZbU
 # brew services start jenkins-lts
 ![image](https://user-images.githubusercontent.com/56694905/130335395-f888d4b6-6462-49c2-b998-ab6679fae564.png)
 # above is a example from the video, cat yours and find the password and unlock the jenkins.
+# Now, you can also install docker Desktop, use command line to check the version of Docker, make sure is installed
+# To run Jenkins:![image](https://user-images.githubusercontent.com/56694905/130336132-483ee535-4d34-4282-a1b0-48c9224a6e83.png)
+# After you run docker command, it generate a password for you, so you do not need to cat it as earlier, just copy it and unlock the jenkins.
+# (Notice that: those two passwords are not the same string)
+# After install plugins, input username and password, the default Jenkins URL is: http://localhost:8080/
