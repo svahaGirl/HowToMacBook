@@ -1,4 +1,4 @@
-# Day 1
+## Part 1
 # New Mac book Pro, day 1, install google chrome, install Homebrew: Package Manager for Mac OS.
 https://www.youtube.com/watch?v=SELYgZvAZbU
 # Above tutorial is how to install Homebrew.
@@ -17,3 +17,9 @@ https://www.youtube.com/watch?v=SELYgZvAZbU
 # After you run docker command, it generate a password for you, so you do not need to cat it as earlier, just copy it and unlock the jenkins.
 # (Notice that: those two passwords are not the same string)
 # After install plugins, input username and password, the default Jenkins URL is: http://localhost:8080/
+# You can create a new username, the admin default password is the long one that you used to unlock the jenkins.
+## Part 2
+# Install spring boot and Git in Eclipse Enterprise, after you installed it.
+# Go to Help, Install New Software, http://download.eclipse.org/egit/updates/
+# Or go to Eclipse Marketpace, type Egit and installing it.
+
