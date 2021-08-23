@@ -22,4 +22,8 @@ https://www.youtube.com/watch?v=SELYgZvAZbU
 # Install spring boot and Git in Eclipse Enterprise, after you installed it.
 # Go to Help, Install New Software, http://download.eclipse.org/egit/updates/
 # Or go to Eclipse Marketpace, type Egit and installing it.
+# Screen Shot: Ctrl+Shift+4 is for part of screen
+![image](https://user-images.githubusercontent.com/56694905/130378304-a582c6aa-ad06-4f27-9989-f5a86ee5e14f.png)
 
+# Ctrl+shift+3 is for whole screen
+# To make screen record video, use QuickTime Player: click "QuickTime" application, then click "File", click "New Screen Recording", you can find the recorded file in recent folder.
