@@ -27,3 +27,4 @@
   ##</html>
   ## This is index.html version 1
 #![image](https://user-images.githubusercontent.com/56694905/135738154-4be68ccc-6332-4a98-bc4b-424ed0e67756.png)
+# Right click index.html, choose Reveal in Finder, is going to show the file, click it, it going to show in the browser, like the pic above.
