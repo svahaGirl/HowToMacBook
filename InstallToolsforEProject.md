@@ -20,7 +20,7 @@
   ##    I am in main field
   ##     </main>
   ##    <footer>
-  ## I am in footer field
+  ## I am in footer field, All rights reserved.
   ##     </footer>
   ##   </div>
   ##  </body>
