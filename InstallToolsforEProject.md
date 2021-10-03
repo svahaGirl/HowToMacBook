@@ -14,10 +14,13 @@
   ## <body>
   ##   <div class="grid-container">
   ##   <header>
+  ##   I am in header field
   ##    </header>
   ##    <main>
+  ##    I am in main field
   ##     </main>
   ##    <footer>
+  ## I am in footer field
   ##     </footer>
   ##   </div>
   ##  </body>
