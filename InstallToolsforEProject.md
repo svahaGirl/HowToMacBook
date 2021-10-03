@@ -29,3 +29,6 @@
 #![image](https://user-images.githubusercontent.com/56694905/135738154-4be68ccc-6332-4a98-bc4b-424ed0e67756.png)
 # Right click index.html, choose Reveal in Finder, is going to show the file, click it, it going to show in the browser, like the pic above.
 ## Remember to save changes, sometimes need to save all before we refresh the browser.
+  ## This is index.html version 2
+  <img width="494" alt="indexVersion2" src="https://user-images.githubusercontent.com/56694905/135739239-61ec183e-5405-444a-bfc6-60cc2608ae24.png">
+
